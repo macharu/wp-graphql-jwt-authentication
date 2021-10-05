@@ -1,5 +1,5 @@
 {
-  "name": "wp-graphql/wp-graphql-jwt-authentication",
+  "name": "macharu/wp-graphql-jwt-authentication",
   "description": "JWT Authentication for WPGraphQL",
   "type": "wordpress-plugin",
   "license": "GPL-3.0+",
